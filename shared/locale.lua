@@ -16,6 +16,8 @@ Locale = {
         ["MainMenu:Voice:Radio"] = "Radio",
         ["MainMenu:Voice:Phone"] = "Telefon",
         ["MainMenu:Voice:Car"] = "Auto",
+        ["Inventory:Player:Give"] = "Geben",
+        ["Inventory:Player:Drop"] = "Ablegen",
     },
     ["de"] = { 
         ["MainMenu:Title"] = "Personalmenu",

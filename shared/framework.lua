@@ -7,3 +7,11 @@ if GetResourceState("es_extended") == "started" then
         end)
     end
 end
+
+Config.Functions = {
+    Notify = function(msg)
+        ESX.ShowNotification(msg)
+    end,
+
+    
+}
